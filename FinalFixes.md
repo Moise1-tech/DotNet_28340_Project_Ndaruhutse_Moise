@@ -1,0 +1,1 @@
+Fixed null connection string references in LoginForm and SignupForm by adding null-conditional operators and meaningful exceptions. Also validated connection string names against app.config.
