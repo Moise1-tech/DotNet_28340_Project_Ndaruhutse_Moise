@@ -121,3 +121,17 @@ addresses by hand. Error messages say clearly what the user must fix.
 • Administrator manages scholarship categories.
 • Administrator reviews an application and approves or rejects it.
 • Administrator filters applications by category, status, department, or average score.
+========================-----------------------------------------------------------====================
+<img width="959" height="480" alt="Screenshot 2026-11-22 180934" src="https://github.com/user-attachments/assets/7c816ee5-24c8-4946-9ec5-e6fcabf83b88" />
+
+<img width="959" height="504" alt="Screenshot 2026-11-22 122348" src="https://github.com/user-attachments/assets/ba8418d8-e688-4452-ab79-c0058c4e702b" />
+
+<img width="693" height="325" alt="Screenshot 2026-11-22 181118" src="https://github.com/user-attachments/assets/7a81fdd9-a8a4-49eb-b4e3-d2f5ba44447c" />
+
+<img width="959" height="495" alt="Screenshot 2026-11-22 182135" src="https://github.com/user-attachments/assets/111a0d08-1208-45fe-9135-3918288612bc" />
+
+<img width="955" height="484" alt="Screenshot 2026-11-22 182328" src="https://github.com/user-attachments/assets/65285bd7-4456-4fd6-972a-a854fbe75abc" />
+
+<img width="1536" height="1024" alt="BrightPath Scholarship System UI Showcase" src="https://github.com/user-attachments/assets/2069256a-0224-484a-9d08-f87c9cded411" />
+
+****
